@@ -1,15 +1,14 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-As an exceptional Physics undergraduate from Sun Yat-sen University with a perfect 4.0 GPA, I have demonstrated a profound commitment to my field through rigorous academic study and significant research contributions. My experiences range from theoretical explorations of quantum systems in waveguides to leadership roles in national physics competitions and academic societies. With a strong foundation in both the theoretical and practical aspects of physics and a keen ability to lead and collaborate, I am driven to further explore the quantum realm. My ambition is to contribute to groundbreaking advancements in quantum technology, focusing on the development of quantum networks and communication systems.
-
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository.
+I am a third year undergraduate student from School of Physics, [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/).
+My experiences range from theoretical explorations of quantum systems in waveguides to leadership roles in national physics competitions and academic societies. With a strong foundation in both the theoretical and practical aspects of physics and a keen ability to lead and collaborate, I am driven to further explore the quantum realm. My ambition is to contribute to groundbreaking advancements in quantum technology and exploring quantum phenomena.
 
 
 A data-driven personal website

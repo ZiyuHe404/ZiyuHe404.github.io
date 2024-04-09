@@ -7,7 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+As an exceptional Physics undergraduate from Sun Yat-sen University with a perfect 4.0 GPA, I have demonstrated a profound commitment to my field through rigorous academic study and significant research contributions. My experiences range from theoretical explorations of quantum systems in waveguides to leadership roles in national physics competitions and academic societies. With a strong foundation in both the theoretical and practical aspects of physics and a keen ability to lead and collaborate, I am driven to further explore the quantum realm. My ambition is to contribute to groundbreaking advancements in quantum technology, focusing on the development of quantum networks and communication systems.
+
+This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository.
+
 
 A data-driven personal website
 ======

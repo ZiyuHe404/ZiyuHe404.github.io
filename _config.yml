@@ -201,7 +201,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  Projects:
+  Research:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -247,10 +247,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _Projects
+  # _Research
   - scope:
       path: ""
-      type: Projects
+      type: Research
     values:
       layout: single
       author_profile: true

@@ -27,11 +27,15 @@ Skills
 abc
 
 
-Recent Projects
+Research
 ======
 
 
 Notes
+======
+abc
+
+Awards
 ======
 abc
 

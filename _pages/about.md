@@ -28,18 +28,8 @@ abc
 
 Soft Skills
 ---
-
 abc
 
-
-Research
-======
-
-abc
-
-Notes
-======
-abc
 
 Awards
 ======

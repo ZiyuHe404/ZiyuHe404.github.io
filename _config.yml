@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Meimage.JPG"
+  avatar           : "Meimage.jpg"
   name             : "Ziyu He"
   pronouns         : # example: "she/her"  
   bio              : "Undergraduate committed to exploring quantum phenomena, passionate about contributing to the field of quantum technology."

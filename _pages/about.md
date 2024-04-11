@@ -24,7 +24,7 @@ In addition to my primary focus on waveguide quantum electrodynamics and its imp
 Skills
 ======
 
-Skills in Waveguide and circuit QED
+Skills in Waveguide QED and Circuit QED
 ---
 
 Analytical Calculations in Waveguide QED: 1. Scattering Theory 2. Master Equation and SLH Formalism 3. Schrödinger Equation in Hilbert Subspace 4. Langevin Equations and Input-Output Theory

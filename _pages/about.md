@@ -24,12 +24,16 @@ In addition to my primary focus on waveguide quantum electrodynamics and its imp
 Skills
 ======
 
-abc
-
-Soft Skills
+Skills in Waveguide and circuit QED
 ---
-abc
 
+Analytical Calculations in Waveguide QED: 1. Scattering Theory 2. Master Equation and SLH Formalism 3. Schrödinger Equation in Hilbert Subspace 4. Langevin Equations and Input-Output Theory
+
+Numerical Calculations in Waveguide QED: 1. Using the QuTiP Library in Python and Quantum Pulse Theory 2. Solving the Schrödinger Equation in Hilbert Subspace with Mathematica
+
+General Skills
+---
+Python Mathematica LaTeX QuTiP C++ Origin Powerpoint Labview
 
 Awards
 ======

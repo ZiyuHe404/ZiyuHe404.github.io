@@ -1,6 +1,6 @@
 ---
 title: "Tunable giant atom in a dual-rail quantum network"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/circulator.png' width="700" height="400">"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/circulator.png' >"
 collection: portfolio
 ---
 

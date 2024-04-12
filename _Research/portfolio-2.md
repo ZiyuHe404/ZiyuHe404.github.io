@@ -11,4 +11,4 @@ We utilized the numerical approach proposed by Alexander Holm Kiilerich and Klau
 
 The following image shows the Wigner function of a flying cat state.
 
-<br/><img src='/images/cat state.png'
+<br/><img src='/images/cat_state.png'>

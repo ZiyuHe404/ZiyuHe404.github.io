@@ -4,7 +4,7 @@ excerpt: "Short description of portfolio item number 1<br/><img src='/images/cir
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+In a dual-rail waveguide, we have theoretically designed a three-level giant atom configuration and calculated its scattering properties for incident photons. Such a configuration enables quantum routing of incident photons, optical quantum gate circuits, optical quantum storage, and quantum teleportation, all of which can be realized by tuning the coupling parameters and phases. These advances contribute to the development of quantum networks.
 <br/><img src='/images/circulator.png' >
 
 <br/><img src='/images/nonmarkovin.png' >

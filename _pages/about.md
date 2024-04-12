@@ -43,7 +43,7 @@ _Top 5% in Physics major, Sun Yat-sen University_     10.2023
 
 **First Prize of SYSU Outstanding Student Scholarship**  
 
-_Top 5\% in Physics major, Sun Yat-sen University_     10.2023
+_Top 5% in Physics major, Sun Yat-sen University_     10.2023
 
 **The 13th China Undergraduate Physics Tournament(Team)**   
 

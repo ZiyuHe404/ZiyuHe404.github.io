@@ -1,5 +1,5 @@
 ---
-title: "Tunable giant atom in a dual-rail quantum network"
+title: "Tunable Quantum Router in a Dual-Rail Quantum Network via Giant Atom"
 excerpt: "In a dual-rail waveguide, we have theoretically designed a three-level giant atom configuration and calculated its scattering properties for incident photons. Such a configuration enables quantum routing of incident photons, quantum gate circuits, quantum RAM, quantum circulator, and quantum teleportation, all of which can be realized by tuning the coupling parameters and phases. These advances contribute to the development of quantum networks.
 <br/><img src='/images/circulator.png' >"
 collection: portfolio

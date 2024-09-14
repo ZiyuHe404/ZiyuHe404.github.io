@@ -19,7 +19,7 @@ Research Interest
 
 My research interest focuses on waveguide QED, particularly the long-range and many-body interactions it induces. I am dedicated to investigating their physical applications in quantum networks and quantum state transfer, exploring the phenomena of many-body entanglement and quantum simulation. These studies are pivotal for advancing our understanding of quantum systems and have profound implications for the development of quantum technologies.
 
-In addition to my primary focus on waveguide quantum electrodynamics and its implications for quantum networks and quantum computing, I hold a keen interest in a broader spectrum of quantum phenomena. My explorations extend into quantum computing, quantum phase transitions, and quantum chaos. These areas represent the cutting edge of quantum science and offer profound insights into the fundamental workings of the universe. As I deepen my understanding, I aim to integrate these interests to address overarching questions in quantum technology and theoretical physics, contributing to the advancement of quantum science.
+In addition to my primary focus on waveguide QED and its implications for quantum networks and quantum simulation, I hold a keen interest in a broader area. My explorations extended into quantum computing in superdonducting qubits, phase transitions in ultracold atoms, and quantum chaos. These areas represent the cutting edge of quantum science and offer profound insights into the fundamental workings of the universe. As I deepen my understanding, I aim to integrate these interests to address questions in quantum technology and theoretical physics, contributing to the advancement of quantum science.
 
 
 

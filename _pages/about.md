@@ -35,31 +35,6 @@ General Skills
 ---
 Python Mathematica LaTeX QuTiP C++ Origin Powerpoint Labview
 
-Awards
-======
-**First Prize of SYSU Outstanding Student Scholarship**   
-
-_Top 5% in Physics major, Sun Yat-sen University_     10.2023
-
-**First Prize of SYSU Outstanding Student Scholarship**  
-
-_Top 5% in Physics major, Sun Yat-sen University_     10.2023
-
-**The 13th China Undergraduate Physics Tournament(Team)**   
-
-_First prize, ranked fifth nationwide, working as a team captain_   10.2022
-
-**National Undergraduate Mathematical Contest in Modelling**  
-
-_First Prize in Guangdong Province Division, China Society for Industrial and Applied Mathematics_ 9.2022
-
-**The 13th China Undergraduate Physics Tournament (Central South Division)(Team)**   
-
-_First prize, ranked first in the division, working as a team captain_ 5.2022
-
-**The Best Player in the 13th China Undergraduate Physics Tournament (Central South Division)**  
-
-_The top one in the Central South Division_   5.2022
 
 
 

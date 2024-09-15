@@ -5,7 +5,7 @@ excerpt: "In a dual-rail waveguide, we have theoretically designed a three-level
 collection: portfolio
 ---
 
-In a dual-rail waveguide, we have theoretically designed a three-level giant atom configuration and calculated its scattering properties for incident photons. Such a configuration enables quantum routing of incident photons, quantum gate circuits, quantum RAM, quantum circulator, and quantum teleportation, all of which can be realized by tuning the coupling parameters and phases. These advances contribute to the development of quantum networks.
+In a dual-rail waveguide, we have theoretically designed a $\nabla$ type giant atom and calculated its scattering properties for incident photons. Such a configuration enables quantum routing of incident photons, quantum gate circuits, and quantum circulator with high fidelity, all of which can be realized by tuning the coupling parameters. These advances contribute to the development of quantum networks.
 
 The following diagram illustrates the scattering properties as a tunable quantum circulator.
 

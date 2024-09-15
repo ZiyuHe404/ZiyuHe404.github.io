@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-About Me
 
 I am a senior undergraduate student at the School of Physics, [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/), fortunate to be advised by [Prof. Ze-Liang Xiang](https://scholar.google.com/citations?user=akB8u4sAAAAJ&hl=en&oi=ao), [Prof. Xueyue Zhang](https://xueyue-sherry-zhang.github.io/), and [Prof. Gyu Boong Jo](https://ultracold.ust.hk/group/pi-gyu-boong-jo-ph-d).
 

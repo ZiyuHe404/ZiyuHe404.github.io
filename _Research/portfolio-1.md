@@ -4,7 +4,7 @@ excerpt: "In a dual-rail waveguide, we have theoretically designed a $\nabla$-ty
 <br/><img src='/images/circulator.png' >"
 collection: portfolio
 ---
-In a dual-rail waveguide, we have theoretically designed a $\nabla$-type giant atom and calculated its scattering properties for incident photons. This configuration enables high-fidelity quantum routing, quantum gates, and quantum circulators, all of which can be realized by tuning the coupling parameters. These advances contribute to the development of quantum networks.
+In a dual-rail waveguide, we have theoretically designed a $`\nabla`$-type giant atom and calculated its scattering properties for incident photons. This configuration enables high-fidelity quantum routing, quantum gates, and quantum circulators, all of which can be realized by tuning the coupling parameters. These advances contribute to the development of quantum networks.
 
 
 The following diagram illustrates the scattering properties as a tunable quantum circulator.

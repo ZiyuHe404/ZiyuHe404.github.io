@@ -8,8 +8,8 @@ In a dual-rail waveguide, we have theoretically designed a $$\nabla$$-type giant
 
 The following diagram illustrates the scattering properties as a tunable quantum circulator.
 
-<br/><img src='/images/circulator.png' >
+<br/><img src='/images/giant_atom/circulator.png' > 
 
 We have also calculated the non-Markovian effects of this giant atom configuration in the waveguide and its impact on scattering behavior.
 
-<br/><img src='/images/nonmarkovin.png' >
+<br/><img src='/images/giant_atom/nonmarkovin.png' >

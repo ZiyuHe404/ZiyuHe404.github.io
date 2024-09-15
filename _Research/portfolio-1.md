@@ -6,7 +6,7 @@ collection: portfolio
 ---
 In a dual-rail waveguide, we have theoretically designed a $$\nabla$$-type giant atom and calculated its scattering properties for incident photons. This configuration enables high-fidelity quantum routing, quantum gates, and quantum circulators, all of which can be realized by tuning the coupling parameters. These advances contribute to the development of quantum networks.
 
-Here, we shows scatering probabilities of the giant atom,
+Here, we shows scatering probabilities of the giant atom.
 
 <br/><img src='/images/giant_atom/scateringfig.png' > 
 

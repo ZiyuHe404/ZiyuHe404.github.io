@@ -18,3 +18,5 @@ These findings enable the realization of quantum routers, quantum gates, and qua
 Additionally, we investigated the **non-Markovian** effects arising from the giant atom configuration within the waveguide and analyzed their impact on scattering behavior:
 
 <br/><img src='/images/giant_atom/nonmarkovin.png' >
+
+Our theoretical work advances quantum network development by providing a feasible scheme for on-chip tunable quantum information processing devices through precise manipulation of system parameters.

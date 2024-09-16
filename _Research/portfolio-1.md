@@ -11,7 +11,7 @@ Our results reveal **chiral and nonreciprocal** scattering behaviors, which can 
 
 <br/><img src='/images/giant_atom/scateringfig.png' > 
 
-These findings enable the realization of quantum routers, quantum gates, and quantum circulators through parameter tuning. The following diagram demonstrates the giant atom functioning as a tunable quantum circulator:
+These findings enable the realization of quantum routers, quantum gates, and quantum circulators through parameter tuning. The following diagram demonstrates the giant atom functioning as a **tunable quantum circulator**:
 
 <br/><img src='/images/giant_atom/circulator.png' > 
 

@@ -1,19 +1,20 @@
 ---
 title: "Tunable Quantum Router in a Dual-Rail Quantum Network via Giant Atom"
-excerpt: "In a dual-rail waveguide, we have theoretically designed a three level giant atom and calculated its scattering properties for incident photons. This configuration enables high-fidelity quantum routing, quantum gates, and quantum circulators, all of which can be realized by tuning the coupling parameters. These advances contribute to the development of quantum networks.
+excerpt: "We have theoretically designed a tunable quantum router using a three-level giant atom embedded in a dual-rail waveguide. By calculating the scattering properties for incident photons, we demonstrated that this configuration enables high-fidelity quantum routing, quantum gates, and quantum circulators—all achievable by tuning the coupling parameters. These advances contribute significantly to the development of quantum networks.
 <br/><img src='/images/giant_atom/circulator.png' >"
 collection: portfolio
 ---
-In a dual-rail waveguide, we have theoretically designed a $$\nabla$$-type giant atom and calculated its scattering properties for incident photons. This configuration enables high-fidelity quantum routing, quantum gates, and quantum circulators, all of which can be realized by tuning the coupling parameters. These advances contribute to the development of quantum networks.
 
-Here, we show the chiral and nonreciprocal scattering properties of the giant atom. These novel scattering property can be utilized to implement quantum devises.
+In this project, we propose a tunable quantum router based on a $$\nabla$$-type giant atom embedded in a dual-rail waveguide, implemented on a superconducting circuits platform. By employing the Bethe ansatz method, we calculated the scattering properties of incident photons interacting with the giant atom.
+
+Our results reveal **chiral and nonreciprocal** scattering behaviors, which can be harnessed to implement advanced quantum devices. The novel scattering properties are illustrated below:
 
 <br/><img src='/images/giant_atom/scateringfig.png' > 
 
-The following diagram illustrates the scattering properties as a tunable quantum circulator.
+These findings enable the realization of quantum routers, quantum gates, and quantum circulators through parameter tuning. The following diagram demonstrates the giant atom functioning as a tunable quantum circulator:
 
 <br/><img src='/images/giant_atom/circulator.png' > 
 
-We have also calculated the non-Markovian effects of this giant atom configuration in the waveguide and its impact on scattering behavior.
+Additionally, we investigated the **non-Markovian** effects arising from the giant atom configuration within the waveguide and analyzed their impact on scattering behavior:
 
 <br/><img src='/images/giant_atom/nonmarkovin.png' >

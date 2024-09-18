@@ -18,6 +18,8 @@ Further, we explored the wavefunction and the spectrum where there existed a ZZ 
 
 <br/><img src='/images/Nonlinear_wave/ZZ_interaction.png'>
 
+We calculated the dymamics of this system in two photon subspace in QuTiP, as follow
+
 
 
 We explored generating cat state based on this nonlinear interaction. In order to contruct a cat state, we actually need two bosonic systems, or two bosonic modes a and b. It has the following Hamiltonian,

@@ -1,43 +1,46 @@
 ---
-title: "Analytical and Numerical Study of Photons in Nonlinear Waveguide"
-excerpt: "We started to investigate in nonlinear waveguide which is composed of nonlinear coupled cavity array. Inspired by the previous work, we reproduce their calculations of two photons bound state. Further, we aimed to utilize this nonlinear interaction to generate driven-disspasive cat state and further explored entangled cat state.
+title: "Analytical and Numerical Study of Photons in Nonlinear Waveguides"
+excerpt: "In collaboration with Prof. Xueyue (Sherry) Zhang, we investigated nonlinear waveguides composed of nonlinear coupled cavity arrays. Inspired by previous work, we reproduced calculations of two-photon bound states. Further, we explored utilizing this nonlinear interaction to generate driven-dissipative cat states and investigated the formation of entangled cat states.
  <br/><img src='/images/quantum_pulse/pulse_title.png'>"
 collection: portfolio
 ---
-In this project, we reproduced the [work](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.124.213601) in nonlinear waveguide. Given the discrete translational symmetry, the state in two photon subspace can be represented as $$e^{i K r_c}$$ $$\psi_{K}(r^{\prime}) $$ using Bloch theorem. Here, $$K$$ is the total wavevector, $$r_c$$ and $$r^{\prime}$$ represents the center of mass position and the relative displacement. We calculated the eigenstate and eigenenergy of this system, identifying a two photon bound state. The figure below shows the relative wavefunction $$\psi_{K}(r^{\prime})$$ and the eigenenergy at certain $$K$$.
+In this project, we reproduced the results from the [study](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.124.213601) on nonlinear waveguides. Due to discrete translational symmetry, the state in the two-photon subspace can be represented using the Bloch theorem as $$e^{i K r_c}$$ $$\psi_{K}(r^{\prime}) $$, where $$K$$ is the total wavevector, $$r_c$$ is the center-of-mass position, and $$r^{\prime}$$ represents the relative displacement. We calculated the eigenstates and eigenenergies of this system, identifying two-photon bound states.
 
 <br/><img src='/images/Nonlinear_wave/wavefunction_inner.png'>
 
-Here, we show the two photon bound state and two photon scattering state at the left, and the band of relative space at the right.
+On the left, we display the two-photon bound state and the two-photon scattering state. On the right, we show the energy band structure in the relative space.
 
-The following is the energy spectrum versus interaction U. Our calculations matched with the previous work.
+The following image presents the energy spectrum versus the interaction strength $$U$$. Our calculations are in good agreement with the previous work:
 
 <br/><img src='/images/Nonlinear_wave/spectrum.png'>
 
-Further, we explored the wavefunction and the spectrum where there existed a ZZ interaction. This extended case contained two two-photon bound states having distinct relative wavefunction.
+Further, we explored the wavefunction and the spectrum in the presence of a ZZ interaction. This extended case contains two two-photon bound states with distinct relative wavefunctions:
 
 <br/><img src='/images/Nonlinear_wave/ZZ_interaction.png'>
 
-We calculated the dymamics of this system in two photon subspace in QuTiP, as follow
+We calculated the dynamics of this system in the two-photon subspace using QuTiP, as shown below:
 
+<br/><img src='/images/Nonlinear_wave/quantumwalk.png'>
 
+We investigated generating cat states based on this nonlinear interaction. To construct a cat state, we require two bosonic systems or two bosonic modes, $$a$$ and $$b$$, with the following Hamiltonian:
 
-We explored generating cat state based on this nonlinear interaction. In order to contruct a cat state, we actually need two bosonic systems, or two bosonic modes a and b. It has the following Hamiltonian,
 $$
 H = -\frac{\chi_aa}{2} a^{\dagger} a^{\dagger} a a + g_2 ( b^{\dagger} a a + a^{\dagger} a^{\dagger} b) + \epsilon_d (b+b^{\dagger})
 $$
-with two collapse operators,
+and two collapse operators:
 $$
 C_1 = \sqrt{\kappa_a} a,C_2 = \sqrt{\kappa_b} b
 $$
 
-The result calculated using QuTiP shows here
+The result calculated using QuTiP is shown here:
 
 <br/><img src='/images/Nonlinear_wave/idealcat.png'>
 
-We further extended this to a cavity sidecoupled to a nonlinear waveguide, aimed at generating a flying cat state.
+We further extended this study to a cavity side-coupled to a nonlinear waveguide, aiming to generate a flying cat state:
 
 <br/><img src='/images/Nonlinear_wave/flyingcat.png'>
+
+
 
 
 

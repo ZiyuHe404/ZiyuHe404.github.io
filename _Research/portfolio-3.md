@@ -18,6 +18,8 @@ Further, we explored the wavefunction and the spectrum where there existed a ZZ 
 
 <br/><img src='/images/Nonlinear_wave/ZZ_interaction.png'>
 
+
+
 We explored generating cat state based on this nonlinear interaction. In order to contruct a cat state, we actually need two bosonic systems, or two bosonic modes a and b. It has the following Hamiltonian,
 $$
 H = -\frac{\chi_aa}{2} a^{\dagger} a^{\dagger} a a + g_2 ( b^{\dagger} a a + a^{\dagger} a^{\dagger} b) + \epsilon_d (b+b^{\dagger})
@@ -31,7 +33,9 @@ The result calculated using QuTiP shows here
 
 <br/><img src='/images/Nonlinear_wave/idealcat.png'>
 
+We further extended this to a cavity sidecoupled to a nonlinear waveguide, aimed at generating a flying cat state.
 
+<br/><img src='/images/Nonlinear_wave/flyingcat.png'>
 
 
 

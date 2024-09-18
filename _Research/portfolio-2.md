@@ -1,6 +1,6 @@
 ---
 title: "Numerical Study of Quantum Pulse Interaction with Localized Quantum Systems"
-excerpt: "I employed the approach proposed by Alexander Holm Kiilerich and Klaus Mølmer to study the interactions between incident light in various quantum states and localized quantum systems within a waveguide. By reproducing their work on pulse shaping of a cavity with phase noise and generating a flying cat state, I contributed to advancing techniques in quantum control of emitter. This work was presented to an experimental group for further application.
+excerpt: "Under the guidance of Prof. Zeliang Xiang, I employed the approach proposed by Alexander Holm Kiilerich and Klaus Mølmer to study the interactions between incident light in various quantum states and localized quantum systems within a waveguide. By reproducing their work on pulse shaping of a cavity with phase noise and generating a flying cat state, I contributed to advancing techniques in quantum control of emitter. This work was presented to an experimental group for further application.
  <br/><img src='/images/quantum_pulse/pulse_title.png'>"
 collection: portfolio
 ---

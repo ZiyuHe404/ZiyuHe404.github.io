@@ -1,6 +1,6 @@
 ---
 title: "Tunable Quantum Router in a Dual-Rail Quantum Network via Giant Atom"
-excerpt: "We have theoretically designed a tunable quantum router using a three-level giant atom embedded in a dual-rail waveguide. By calculating the scattering properties for incident photons, we demonstrated that this configuration enables high-fidelity quantum routing, quantum gates, and quantum circulators—all achievable by tuning the coupling parameters. These advances contribute significantly to the development of quantum networks.
+excerpt: "Under the guidance of Prof. Zeliang Xiang, we have theoretically designed a tunable quantum router using a three-level giant atom embedded in a dual-rail waveguide. By calculating the scattering properties for incident photons, we demonstrated that this configuration enables high-fidelity quantum routing, quantum gates, and quantum circulators—all achievable by tuning the coupling parameters. These advances contribute significantly to the development of quantum networks.
 <br/><img src='/images/giant_atom/circulator.png' >"
 collection: portfolio
 ---

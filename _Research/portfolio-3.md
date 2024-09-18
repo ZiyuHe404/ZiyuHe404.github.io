@@ -4,7 +4,7 @@ excerpt: "We started to investigate in nonlinear waveguide which is composed of 
  <br/><img src='/images/pulse_title.png'>"
 collection: portfolio
 ---
-In this project, we reproduced the [work](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.124.213601) in nonlinear waveguide. Given the discrete translational symmetry, the state in two photon subspace can be represented as $$e^{i K r_c} \psi_{K}(r^{\prime}) $$ using Bloch theorem. Here, $$K$$ is the total wavevector $$K$$, $$r_c$$ and $$r^{\prime}$$ represents the center of mass position and the relative displacement. We calculated the eigenstate and eigenenergy of this system, identifying a two photon bound state. The figure below shows the relative wavefunction $$\psi_{K}(r^{\prime})$$ and the eigenenergy at certain $$K$$.
+In this project, we reproduced the [work](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.124.213601) in nonlinear waveguide. Given the discrete translational symmetry, the state in two photon subspace can be represented as $$e^{i K r_c} \psi_{K}(r^{\prime}) $$ using Bloch theorem. Here, $$K$$ is the total wavevector, $$r_c$$ and $$r^{\prime}$$ represents the center of mass position and the relative displacement. We calculated the eigenstate and eigenenergy of this system, identifying a two photon bound state. The figure below shows the relative wavefunction $$\psi_{K}(r^{\prime})$$ and the eigenenergy at certain $$K$$.
 
 <br/><img src='/images/Temporal_mode.png'>
 

@@ -1,7 +1,7 @@
 ---
 title: "Fitting the ToF of the 2D Yb Ultracold Atom"
 excerpt: "I employed the approach proposed by Alexander Holm Kiilerich and Klaus Mølmer to study the interactions between incident light in various quantum states and localized quantum systems within a waveguide. By reproducing their work on pulse shaping of a cavity with phase noise and generating a flying cat state, I contributed to advancing techniques in quantum control of emitter. This work was presented to an experimental group for further application.
- <br/><img src='/images/pulse_title.png'>"
+ <br/><img src='/images/quantum_pulse/pulse_title.png'>"
 collection: portfolio
 ---
 In this project, I utilized the [method](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.123.123604) proposed by Alexander Holm Kiilerich and Klaus Mølmer to investigate the interactions between incident light in various quantum states and localized quantum systems within a waveguide. One aspect of the study involved analyzing the scattering from an empty cavity with phase noise. The figure below shows the four dominant orthogonal modes in the output field, derived from the autocorrelation function of the field emitted by the cavity. Our results are consistent with those reported by Kiilerich and Mølmer.

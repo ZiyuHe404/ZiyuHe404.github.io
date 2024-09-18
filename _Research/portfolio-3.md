@@ -1,7 +1,7 @@
 ---
 title: "Analytical and Numerical Study of Photons in Nonlinear Waveguides"
 excerpt: "In collaboration with Prof. Xueyue (Sherry) Zhang, we investigated nonlinear waveguides composed of nonlinear coupled cavity arrays. Inspired by previous work, we reproduced calculations of two-photon bound states. Further, we explored utilizing this nonlinear interaction to generate driven-dissipative cat states and investigated the formation of entangled cat states.
- <br/><img src='/images/quantum_pulse/pulse_title.png'>"
+ <br/><img src='/images/Nonlinear_wave/titlenonlinear.png'>"
 collection: portfolio
 ---
 In this project, we reproduced the results from the [study](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.124.213601) on nonlinear waveguides. Due to discrete translational symmetry, the state in the two-photon subspace can be represented using the Bloch theorem as $$e^{i K r_c}$$ $$\psi_{K}(r^{\prime}) $$, where $$K$$ is the total wavevector, $$r_c$$ is the center-of-mass position, and $$r^{\prime}$$ represents the relative displacement. We calculated the eigenstates and eigenenergies of this system, identifying two-photon bound states.

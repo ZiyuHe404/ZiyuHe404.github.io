@@ -10,4 +10,11 @@ In this project, we reproduced the [work](https://journals.aps.org/prl/abstract/
 
 Here, we show the two photon bound state and two photon scattering state at the left, and the band of relative space at the right.
 
+The following is the energy spectrum versus interaction U, comparing our and the previous work.
+
+<br/><img src='/images/Nonlinear_wave/spectrum.png'>
+
+
+
+
 

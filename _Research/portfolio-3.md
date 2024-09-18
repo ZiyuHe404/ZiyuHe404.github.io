@@ -1,6 +1,6 @@
 ---
 title: "Analytical and Numerical Study of Photons in Nonlinear Waveguides"
-excerpt: "In collaboration with Prof. Xueyue (Sherry) Zhang, we investigated nonlinear waveguides composed of nonlinear coupled cavity arrays. Inspired by previous work, we reproduced calculations of two-photon bound states. Further, we explored utilizing this nonlinear interaction to generate driven-dissipative cat states and investigated the formation of entangled cat states.
+excerpt: "In collaboration with Prof. Xueyue (Sherry) Zhang, I investigated nonlinear waveguides composed of nonlinear coupled cavity arrays. Inspired by previous work, I reproduced calculations of two-photon bound states. Further, I explored utilizing this nonlinear interaction to generate driven-dissipative cat states and investigated the formation of entangled cat states.
  <br/><img src='/images/Nonlinear_wave/titlenonlinear.png'>"
 collection: portfolio
 ---

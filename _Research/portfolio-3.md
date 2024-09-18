@@ -27,6 +27,14 @@ $$
 C_1 = \sqrt{\kappa_a} a,C_2 = \sqrt{\kappa_b} b
 $$
 
+The result calculated using QuTiP shows here
+
+<br/><img src='/images/Nonlinear_wave/idealcat.png'>
+
+
+
+
+
 
 
 

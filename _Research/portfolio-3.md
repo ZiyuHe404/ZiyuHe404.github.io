@@ -27,7 +27,9 @@ We investigated generating cat states based on this nonlinear interaction. To co
 $$
 H = -\frac{\chi_aa}{2} a^{\dagger} a^{\dagger} a a + g_2 ( b^{\dagger} a a + a^{\dagger} a^{\dagger} b) + \epsilon_d (b+b^{\dagger})
 $$
+
 and two collapse operators:
+
 $$
 C_1 = \sqrt{\kappa_a} a,C_2 = \sqrt{\kappa_b} b
 $$

@@ -14,9 +14,10 @@ The following is the energy spectrum versus interaction U, comparing our and the
 
 <br/><img src='/images/Nonlinear_wave/spectrum.png'>
 
-Further, we explored the wavefunction and the spectrum where there existed a ZZ interaction.
+Further, we explored the wavefunction and the spectrum where there existed a ZZ interaction. This case contained two two-photon bound states having distinct relative wavefunction.
 
 <br/><img src='/images/Nonlinear_wave/ZZ_interaction.png'>
+
 
 
 

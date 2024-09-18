@@ -42,7 +42,6 @@ We further extended this study to a cavity side-coupled to a nonlinear waveguide
 
 <br/><img src='/images/Nonlinear_wave/flyingcat.png'>
 
-Details documents in [here](/_Research/portfolio-2detail/2ph_bound_state/2ph_bound_state.md).
 
 
 

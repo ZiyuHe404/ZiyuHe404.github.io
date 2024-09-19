@@ -5,7 +5,7 @@ excerpt: "Under the guidance of Prof. Gyu-Boong Jo, I developed fitting scripts 
 collection: portfolio
 ---
 
-Initially, I applied the HF method to calculate the occupation distribution of interacting atoms iteratively. Subsequently, I computed the theoretical spatial distribution of the gases after Time of Flight (ToF), considering the infinite time effect through integration over initial positions. 
+Initially, I applied the HF method to calculate the occupation distribution of interacting atoms iteratively. Subsequently, I computed the theoretical spatial distribution of the gases after Time of Flight (ToF), considering the finite time effect through integration over initial positions. 
 The following is the result.1.the spatial distribution after ToF(left). 2. the iteration results of interacting particle density compared to non-interacting case(right).
 
 <br/><img src='/images/ultracoldatom/distributeiteration_theory.png'>
@@ -16,4 +16,4 @@ Further analysis involved fitting the theoretical calculations to the experiment
 
 <br/><img src='/images/ultracoldatom/fit.png'>
 
-We averaged 30 optical density measurements of the samples to obtain a consistent density distribution. The data was fitted using the entire dataset (upper right) and its variation (lower right). This approach was crucial as it allowed us to separate the contributions from the condensed phase, which are not accounted for in the Bose-Einstein distribution, and thereby determine the properties of the thermal part and the proportion of condensation within the sample.
+We averaged 30 optical density measurements of the samples to obtain a consistent density distribution. The data was fitted using the entire dataset (upper right) and its swing (lower right). This approach was crucial as it allowed us to separate the contributions from the condensed phase, which are not accounted for in the Bose-Einstein distribution, and thereby determine the properties of the thermal part and the proportion of condensation within the sample.

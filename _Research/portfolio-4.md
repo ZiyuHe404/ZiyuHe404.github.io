@@ -1,18 +1,19 @@
 ---
-title: "Fitting the ToF of the 2D Yb Ultracold Atom"
-excerpt: "Under the guidance of Prof. Gyu-Boong Jo, I developed a fitting scipts to determine the samples's temperature and chemical potential. Using the HF method to iteratively calculate the occupation, we finally get the spatial distribution of atoms theoraticaly. The theoratical result can be compared to the experimental data, further be fitted to acquire the samples' property.
+title: "Fitting the ToF of the quasi 2D Yb Ultracold Atom"
+excerpt: "Under the guidance of Prof. Gyu-Boong Jo, I developed fitting scripts to measure the sample's temperature and chemical potential. By employing the Hartree-Fock (HF) method, we iteratively calculated the occupation distribution of interacting atoms, enabling us to calculate the spatial distribution of these atoms. The theoretical results were then compared and fitted against experimental data to further refine our understanding of the sample's properties.
  <br/><img src='/images/quantum_pulse/pulse_title.png'>"
 collection: portfolio
 ---
 
-First, I utilized the HF method to iteratively calculate the occupation distribution of interacting atoms. Second, I computed the theoretical spatial distribution of the gases after Time of Flight (ToF), accounting for the infinite time effect by integrating over initial positions. The following is the result.1.the spatial distribution after ToF(left). 2. the iteration results of interacting particle density compared to non-interacting case(right).
+Initially, I applied the HF method to calculate the occupation distribution of interacting atoms iteratively. Subsequently, I computed the theoretical spatial distribution of the gases after Time of Flight (ToF), considering the infinite time effect through integration over initial positions. 
+The following is the result.1.the spatial distribution after ToF(left). 2. the iteration results of interacting particle density compared to non-interacting case(right).
 
 <br/><img src='/images/ultracoldatom/distributeiteration_theory.png'>
 
-from the figure, we can see that the distribution preserve the trace of intial spatial distribution (box trap). the interaction between the atoms can lead to a change in occupation.
+From the figures, it is evident that the initial spatial distribution shaped by the box trap is preserved. Interactions among atoms lead to noticeable changes in occupation, highlighting importance of interaction.
 
-Further, we can use this theoratical calculation to fit the experimental data. Due to some setup limitation, we can only take a sideimage of the samples, indicating the data is the x-z distributions. But our theoratical calculation is x-y distribution. Therefore, we integrate them to x distribution. Here is the experimental data and the fitting result.
+Further analysis involved fitting the theoretical calculations to the experimental data. Due to experimental setup limitations that only allowed side images (x-z distributions), we had to adapt our theoretical (x-y) calculations by integrating them to match the x-distributions. Here are the experimental data and the fitting results:
 
 <br/><img src='/images/ultracoldatom/fit.png'>
 
-Here, we average 30 optical density measurement of the samples and get the density distribution of the sample. We fit the measurement using the whole data(upperright) and its swing(lowerright). The reason for fitting the swing is there is a proportion of atoms in condensation, which is not included in the BE distribution. Therefore we fit the swing of the data to acqure the property of the thermal part and determine the condesatoin proportion from the rest. 
+We averaged 30 optical density measurements of the samples to obtain a consistent density distribution. The data was fitted using the entire dataset (upper right) and its variation (lower right). This approach was crucial as it allowed us to separate the contributions from the condensed phase, which are not accounted for in the Bose-Einstein distribution, and thereby determine the properties of the thermal part and the proportion of condensation within the sample.

@@ -4,4 +4,4 @@ excerpt: "In a giant atom project, we conducted experiments on a transmon qubit 
  <br/><img src='/images/superconduct/calibration.png'>"
 collection: portfolio
 ---
-In this project, I 
+

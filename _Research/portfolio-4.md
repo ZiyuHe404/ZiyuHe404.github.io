@@ -15,4 +15,4 @@ Further, we can use this theoratical calculation to fit the experimental data. D
 
 <br/><img src='/images/ultracoldatom/fit.png'>
 
-Here, we average 30 optical density measurement of the samples and get the density distribution of the sample. We fit the measurement using the whole data(upperright) and its swing(lowerright). 
+Here, we average 30 optical density measurement of the samples and get the density distribution of the sample. We fit the measurement using the whole data(upperright) and its swing(lowerright). The reason for fitting the swing is there is a proportion of atoms in condensation, which is not included in the BE distribution. Therefore we fit the swing of the data to acqure the property of the thermal part and determine the condesatoin proportion from the figure. 

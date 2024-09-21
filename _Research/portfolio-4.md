@@ -15,8 +15,8 @@ The following figure presents the results:
 
 From these figures, it is evident that the initial spatial distribution shaped by the box trap is preserved after ToF. Interactions among atoms lead to noticeable changes in occupation numbers, highlighting the importance of interactions in the system.
 
-Further analysis involved fitting the theoretical calculations to the experimental data. Due to experimental setup limitations that only allowed side images (x-z distributions), we adapted our theoretical (x-y) calculations by integrating them along the z-direction to match the x-distributions. Here are the experimental data and the fitting results:
+Further analysis involved fitting the theoretical calculations to the experimental data. Due to experimental setup limitations that only allowed side images (x-z distributions), we compared a theoretically calculated particle number density distribution (x-y) with an experimentally measured density (x-z) by integrating both distributions over the y and z variables, respectively, to obtain their corresponding x-distributions. These were then fitted for comparison. Here are the experimental data and the fitting results:
 
 <br/><img src='/images/ultracoldatom/fit.png'>
 
-We averaged 30 optical density measurements of the samples to obtain a consistent density distribution. The data was fitted using the entire dataset (upper right) and its derivative (lower right). This approach was crucial as it allowed us to separate the contributions from the condensed phase, which are not accounted for in the Bose-Einstein distribution, thereby determining the properties of the thermal part and the proportion of condensation within the sample.
+We averaged 30 optical density measurements of the samples to obtain a consistent density distribution. The data was fitted using the entire dataset (upper right) and its swing (lower right). This approach was crucial as it allowed us to separate the contributions from the condensed phase, which are not accounted for in the Bose-Einstein distribution, thereby determining the properties of the thermal part and the proportion of condensation within the sample.

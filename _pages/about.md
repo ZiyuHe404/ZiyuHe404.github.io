@@ -19,7 +19,7 @@ My research interests center on waveguide quantum electrodynamics (QED), particu
 
 In addition to waveguide QED, my interests and experiences extend to quantum computing with superconducting qubits and phase transitions in ultracold atoms. I have participated in experimental research on superconducting circuits and ultracold atoms, which has broadened my perspective and deepened my appreciation for experimental approaches in quantum physics. These areas represent the forefront of quantum science and offer significant insights into the fundamental workings of the universe.
 
-As I pursue my doctoral studies, I aim to integrate these diverse interests to address fundamental questions in quantum technology and theoretical physics. By combining theoretical and experimental approaches, I hope to contribute meaningfully to the advancement of quantum science and the development of novel quantum technologies.
+As I pursue my doctoral studies, I aim to integrate these diverse interests to address fundamental questions in quantum technology and theoretical physics. By combining theoretical and experimental approaches, I hope to contribute meaningfully to the advancement of quantum science and the development of quantum technologies.
 
 Research Experience
 ======

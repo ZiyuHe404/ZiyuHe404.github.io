@@ -1,5 +1,5 @@
 ---
-title: "Fitting the Time-of-Flight (ToF) of Quasi-2D Ultracold Yb Atoms"
+title: "Fitting the Time-of-Flight (ToF) of Quasi-2D Ultracold Er 166 Atoms"
 excerpt: "Under the guidance of Prof. Gyu-Boong Jo, I developed fitting scripts to determine the sample's temperature and chemical potential. By employing the Hartree-Fock (HF) method, we iteratively calculated the occupation distribution of interacting atoms, enabling the computation of their spatial distribution. The theoretical results were then compared and fitted against experimental data to enhance our understanding of the sample's properties.
  <br/><img src='/images/ultracoldatom/ultratitle.png'>"
 collection: portfolio

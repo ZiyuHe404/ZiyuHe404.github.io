@@ -24,5 +24,5 @@ As I pursue my doctoral studies, I aim to integrate these diverse interests to a
 Research Experience
 ======
 
-See [Research](https://ziyuhe404.github.io/Research/) updated in August 2024.
+See [Research](https://ziyuhe404.github.io/Research/) updated in October 2024.
 

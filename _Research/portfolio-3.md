@@ -25,7 +25,7 @@ We calculated the dynamics of this system in the two-photon subspace using QuTiP
 We investigated generating cat states based on this nonlinear interaction. To construct a cat state, we require two bosonic systems or two bosonic modes, $$a$$ and $$b$$, with the following Hamiltonian:
 
 $$
-H = -\frac{\chi_aa}{2} a^{\dagger} a^{\dagger} a a + g_2 ( b^{\dagger} a a + a^{\dagger} a^{\dagger} b) + \epsilon_d (b+b^{\dagger})
+H = -\frac{\chi_{aa}}{2} a^{\dagger} a^{\dagger} a a + g_2 ( b^{\dagger} a a + a^{\dagger} a^{\dagger} b) + \epsilon_d (b+b^{\dagger})
 $$
 
 and two collapse operators:

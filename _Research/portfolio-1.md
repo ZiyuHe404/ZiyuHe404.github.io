@@ -20,3 +20,5 @@ Additionally, we investigated the **non-Markovian** effects arising from the gia
 <br/><img src='/images/giant_atom/nonmarkovin.png' >
 
 Our theoretical work advances quantum network development by providing a feasible scheme for on-chip tunable quantum information processing devices through precise manipulation of system parameters.
+
+You can find the paper [here](https://ziyuhe404.github.io/files/Ziyu_He_CV.pdf) (preprint in December 2024).

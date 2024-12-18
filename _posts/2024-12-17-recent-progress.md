@@ -13,6 +13,8 @@ tags:
 
 I'm thrilled to share that I've successfully deployed Meta's open-source Large Language Model (LLaMA) locally! This marks an exciting milestone in my journey to create a specialized quantum physics assistant.
 
+<br/><img src='/LLMprogress/implementation1.png' > 
+
 ## Current Achievements
 
 1. **Successful Local Deployment**

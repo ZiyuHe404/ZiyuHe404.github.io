@@ -1,5 +1,5 @@
 ---
-title: "Tunable giant atom in a dual-rail quantum network"
+title: "Tunable quantum router with giant atoms, implementing quantum gates, teleportation, non-reciprocity, and circulators"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'

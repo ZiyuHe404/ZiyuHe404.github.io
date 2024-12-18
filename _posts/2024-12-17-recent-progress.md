@@ -1,5 +1,5 @@
 ---
-title: 'Exciting Progress: Local Deployment of Meta's LLaMA Model'
+title: 'Exciting Progress: Local Deployment of LLaMA Model'
 date: 2024-12-18
 permalink: /posts/2024/12/llama-deployment/
 tags:

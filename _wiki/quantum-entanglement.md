@@ -1,5 +1,5 @@
 ---
-title: "Quantum Entanglement: A Comprehensive Guide"
+title: "TestPage:Quantum Entanglement: A Comprehensive Guide"
 collection: wiki
 permalink: /wiki/quantum-entanglement
 date: 2024-12-17

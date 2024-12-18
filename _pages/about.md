@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I am a senior undergraduate student at the School of Physics, [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/), fortunate to be advised by [Prof. Ze-Liang Xiang](https://scholar.google.com/citations?user=akB8u4sAAAAJ&hl=en&oi=ao), [Prof. Xueyue Zhang](https://xueyue-sherry-zhang.github.io/), and [Prof. Gyu Boong Jo](https://ultracold.ust.hk/group/pi-gyu-boong-jo-ph-d).
+I am a senior undergraduate student at the School of Physics, [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/), fortunate to be advised by [Prof. Franco Nori](https://scholar.google.com/citations?user=SRUYLREAAAAJ&hl=en), [Prof. Ze-Liang Xiang](https://scholar.google.com/citations?user=akB8u4sAAAAJ&hl=en&oi=ao), [Prof. Xueyue (Sherry) Zhang](https://xueyue-sherry-zhang.github.io/), [Prof. Gyu-Boong Jo](https://ultracold.ust.hk/group/pi-gyu-boong-jo-ph-d), and [Prof. Zhi-Hui Peng](https://scholar.google.com/citations?user=4WNrhBIAAAAJ&hl=en).
 
 Driven by a passion for quantum physics, I aim to contribute to advancements in quantum technology and explore exotic quantum phenomena. My experiences range from the theoretical design of a quantum router within a dual-rail waveguide to the experimental exploration of two-dimensional ultracold atoms. With a strong foundation in both theoretical and experimental physics, and a keen ability to communicate and collaborate, I am eager to delve deeper into the quantum realm.
 

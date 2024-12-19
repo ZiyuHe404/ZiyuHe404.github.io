@@ -42,7 +42,9 @@ We further extended this study to a cavity side-coupled to a nonlinear waveguide
 
 <br/><img src='/images/Nonlinear_wave/flyingcat.png'>
 
+Leveraging the collective dissipation of the waveguide, we can generate a multimode cat state, detail in the following summary report:
 
+[Summary report](https://ziyuhe404.github.io/files/multimode_cat_state.pdf)
 
 
 

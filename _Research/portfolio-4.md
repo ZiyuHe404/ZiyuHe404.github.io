@@ -20,3 +20,5 @@ Further analysis involved fitting the theoretical calculations to the experiment
 <br/><img src='/images/ultracoldatom/fit.png'>
 
 We averaged 30 optical density measurements of the samples to obtain a consistent density distribution. The data was fitted using its swing. This approach was crucial as it allowed us to separate the contributions from the condensed phase, which are not accounted for in the Bose-Einstein distribution, thereby determining the properties of the thermal part and the proportion of condensation within the sample.
+
+Detail in [Summary report](https://ziyuhe404.github.io/files/ultracoldreport.pdf).

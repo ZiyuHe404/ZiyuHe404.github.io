@@ -29,16 +29,16 @@ I'm thrilled to share that I've successfully deployed Meta's open-source Large L
 
 ## Next Steps
 
-My upcoming plans are focused on specializing this LLM for quantum physics:
+My upcoming plans are focused on specializing this LLM for physics:
 
 1. **Domain Specialization**
-   - Fine-tuning the model with quantum physics literature
+   - Fine-tuning the model with physics literature
    - Implementing specialized knowledge bases
-   - Adding support for mathematical equations and quantum circuit diagrams
+   - Adding support for mathematical equations
 
 2. **Feature Enhancement**
    - Improving response accuracy for physics-related queries
    - Adding support for interactive problem-solving
-   - Implementing visualization capabilities for quantum concepts
+   - Implementing visualization capabilities for physics concepts
 
-Stay tuned for more updates as I continue to develop this exciting project! The goal is to create a powerful tool that can assist in quantum physics research and education.
+Stay tuned for more updates as I continue to develop this exciting project! The goal is to create a powerful tool that can assist in physics research and education.

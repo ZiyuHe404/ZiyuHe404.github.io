@@ -5,13 +5,13 @@ permalink: /posts/2024/12/llama-deployment/
 tags:
   - artificial intelligence
   - LLM
-  - quantum physics
+  - physics
   - personal project
 ---
 
 # Local Deployment of Meta's Open-Source LLaMA Model
 
-I'm thrilled to share that I've successfully deployed Meta's open-source Large Language Model (LLaMA) locally! This marks an exciting milestone in my journey to create a specialized quantum physics assistant.
+I'm thrilled to share that I've successfully deployed Meta's open-source Large Language Model (LLaMA) locally! This marks an exciting milestone in my journey to create a specialized physics assistant.
 
 <br/><img src='/LLMprogress/implementation1.png' > 
 

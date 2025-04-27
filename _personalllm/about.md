@@ -4,14 +4,13 @@ collection: personalllm
 permalink: /personalllm/about
 ---
 
-# Quantum Physics Assistant
+# Physics Assistant
 
-This is a specialized Large Language Model assistant focused on quantum physics and related fields. Currently under development, this assistant will be designed to:
+This is a specialized Large Language Model assistant focused on physics and related fields. Currently under development, this assistant will be designed to:
 
 ## Planned Features
 
 1. **Interactive Problem Solving**
-   - Quantum mechanics problems
    - Mathematical derivations
    - Circuit analysis
 
@@ -29,7 +28,7 @@ This is a specialized Large Language Model assistant focused on quantum physics 
 
 The assistant will be built using:
 - State-of-the-art language models
-- Specialized quantum physics knowledge base
+- Specialized physics knowledge base
 - Interactive web interface
 
 ## Development Timeline

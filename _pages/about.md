@@ -27,8 +27,5 @@ In optics, the light-matter interaction has long been a foundation for understan
 
 My interest also extends to the study of many-body phenomena in ultracold atomic systems, where the controlled environment allows for the observation of phase transitions and novel dynamics. A central focus is the Bose-Hubbard model, which captures the behavior of interacting bosons on a lattice, and its implications for phase transitions, such as superfluid-to-Mott insulator transitions. By exploring the dynamics of these systems, I aim to uncover deeper insights into correlations, critical phenomena, and collective behaviors that are relevant for both fundamental physics and future technologies. 
 
-Research Experience
-======
 
-See [Research](https://ziyuhe404.github.io/Research/) updated in October 2024.
 

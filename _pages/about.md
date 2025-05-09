@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-Driven by a passion for physics, I aim to explore exotic many-body phenomena. With a strong foundation in both theoretical physics, and a keen ability to communicate and collaborate, I am eager to delve deeper into the this exciting area.
+Driven by a passion for physics, I aim to explore exotic many-body phenomena. With a strong foundation in theoretical physics, and a keen ability to communicate and collaborate, I am eager to delve deeper into the this exciting area.
 
 Research Interests
 ======
